@@ -35,6 +35,7 @@ A final report summarizing the findings of the experiment, including recommendat
 
 ### Chat Gpt:
 <img width="288" height="175" alt="image" src="https://github.com/user-attachments/assets/993662cd-d605-498c-972c-8ec3807d080d" />
+
 **Step 1: Summary (120–150 words, beginner-friendly)**
 
 Blockchain is a digital system for recording transactions in a secure and transparent way. Instead of one central authority, data is stored across many computers (nodes), making it decentralized. Every transaction is grouped into a “block” and linked to the previous one, creating a “chain.” This design makes it very hard to tamper with past records. Key features include transparency, security, immutability, and trust without middlemen. Blockchain uses cryptography to protect data, and consensus mechanisms like Proof of Work or Proof of Stake ensure that all participants agree on the validity of transactions. While it is best known as the foundation of cryptocurrencies like Bitcoin, blockchain has many other uses, such as supply chain management, secure voting, and healthcare data sharing. Overall, blockchain promises greater trust, efficiency, and accountability in digital transactions.
@@ -62,6 +63,8 @@ Bitcoin and other cryptocurrencies: People can send digital money directly to ea
 Walmart's food tracking: The company uses blockchain to track food from farms to stores. If there's a contamination problem, they can instantly trace exactly where the food came from and which stores received it, potentially saving lives by quickly removing dangerous products.
 Blockchain eliminates the need for middlemen, reduces costs, and creates transparency while maintaining security—revolutionizing how we handle digital information and transactions.RetryClaude can make mistakes. Please double-check responses.
 
+---
+
 ### Cohere Command :
 
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/aaea3855-a560-49ee-aa52-d2ad03daea3c" />
@@ -75,6 +78,8 @@ Blockchain is a decentralized digital ledger that records transactions across mu
 
 Blockchain is like a digital notebook shared across many computers, making it super secure and hard to cheat. Instead of one person in charge, everyone in the network keeps a copy, so changes must be approved by all. Each entry (or "block") is linked to the previous one, creating a chain that can’t be altered. For example, Bitcoin uses blockchain to track who owns what, eliminating the need for banks. Another example is Walmart using blockchain to track food from farm to store, ensuring it’s safe and fresh. Beyond money, blockchain can manage contracts, voting, and even medical records. Its main perks? It’s decentralized, tamper-proof, and transparent—making it a game-changer for trust and efficiency in many fields.
 
+---
+
 ### Bard :
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e0cd86fc-6c78-499a-917f-8deda017f108" />
@@ -85,11 +90,30 @@ Blockchain is a groundbreaking technology that works like a shared digital noteb
 
 **Step 2: Revision with Examples**
 
-Imagine a shared digital notebook that's copied on thousands of computers. This is a blockchain. Every time new information is added, everyone on the network checks to make sure it’s correct. Once approved, it’s locked in place and can't be changed. This makes it super secure and transparent, since there’s no single company or person in charge—everyone holds a copy. For example, in supply chain management, companies can use blockchain to track products like coffee beans from the farm all the way to your cup, ensuring they are ethically sourced. In healthcare, it can securely store and share patient records among different doctors or hospitals without compromising privacy.
+   Imagine a shared digital notebook that's copied on thousands of computers. This is a blockchain. Every time new information is added, everyone on the network checks to make sure it’s correct. Once approved, it’s locked in place and can't be changed. This makes it super secure and transparent, since there’s no single company or person in charge—everyone holds a copy. For example, in supply chain management, companies can use blockchain to track products like coffee beans from the farm all the way to your cup, ensuring they are ethically sourced. In healthcare, it can securely store and share patient records among different doctors or hospitals without compromising privacy.
+
+---
+
+### Meta:
+
+<img width="239" height="148" alt="image" src="https://github.com/user-attachments/assets/a31ccad5-82d7-4f80-8150-94c5793f9b84" />
+
+**Step 1: Summary of Blockchain Technology (120-150 words)**
+
+   Blockchain technology is a decentralized digital ledger that records transactions across a network of computers. It uses cryptography to secure and validate transactions, making it difficult to alter or manipulate the data. The blockchain is composed of blocks, each containing a list of transactions, which are linked together through cryptographic hashes. This creates a permanent and transparent record of all transactions.
+The key features of blockchain technology include decentralization, immutability, and transparency. It allows for peer-to-peer transactions without the need for intermediaries, such as banks or governments. Blockchain technology has various applications beyond digital currency, including supply chain management, voting systems, and identity verification.
+
+**Step 2: Revised Summary with Real-World Examples**
+
+   Here's a revised summary of blockchain technology in simpler terms, along with real-world examples:
+Blockchain is a digital ledger that records transactions across a network of computers. It's secure, transparent, and doesn't need intermediaries like banks. Imagine a digital record book that's shared among many people, making it hard to alter or manipulate.
+For example, Walmart uses blockchain to track its food supply chain, ensuring the origin and movement of produce. Another example is Maersk, a shipping company that uses blockchain to track its cargo and reduce paperwork. Blockchain technology has many potential applications, including digital currency, voting systems, and identity verification, making it a promising technology for various industries.
+
 
 ---
 
 ## Blockchain Summary Comparison Across AI Tools  
+
 # AI Model Comparison – Blockchain Prompting Experiment  
 
 | **Model**          | **Step 1: Summary (Clarity & Depth)**                                                                              | **Step 2: Simplified Revision (Ease + Examples)**                                                                     | **Accuracy of Content**                                         | **Strengths**                                                                    | **Weaknesses**                                                    |
@@ -101,12 +125,16 @@ Imagine a shared digital notebook that's copied on thousands of computers. This 
 | **Meta AI**        | Academic tone, focused on technical explanation (cryptography, hashes, immutability).                              | Examples include Walmart (food tracking) & Maersk (shipping). Practical industry focus.                               | ✅ High (technically sound, professional).                       | Professional tone, **business/enterprise examples** stand out.                   | Less beginner-friendly, more corporate/academic tone.
 
 
-**UNDERSTANDING IN SIMPLER FORM**
-    By comparing the AI in the scale format (e.g., 1–5 scale for clarity, accuracy, examples, engagement) and produce a ranked comparison chart
+### UNDERSTANDING IN SIMPLER FORM:
+   
+   By comparing the AI in the scale format (e.g., 1–5 scale for clarity, accuracy, examples, engagement) and produce a ranked comparison chart
+
 
  **Scoring Table**
 
-    | Model         | Clarity (C) | Accuracy (A) | Examples (E) | Engagement (G) | **Total (20)** |
+        
+
+| Model         | Clarity (C) | Accuracy (A) | Examples (E) | Engagement (G) | **Total (20)** |
 | ------------- | ----------- | ------------ | ------------ | -------------- | -------------- |
 | **ChatGPT**   | 5           | 5            | 4            | 4              | **18**         |
 | **Claude AI** | 5           | 5            | 5            | 5              | **20**         |
@@ -115,7 +143,9 @@ Imagine a shared digital notebook that's copied on thousands of computers. This 
 | **Meta AI**   | 3           | 5            | 4            | 3              | **15**         |
 
 
-**Ranked Comparison (Best → Least)**
+
+
+### Ranked Comparison (Best → Least)
 
 1.🥇 Claude AI (20/20) – Best balance of clarity, accuracy, examples, and engagement.
 
@@ -127,17 +157,25 @@ Imagine a shared digital notebook that's copied on thousands of computers. This 
 
 5.Cohere (14/20) – Concise but less engaging and fewer examples.
 
-**VISUAL COMPARSION CHART**
+### VISUAL COMPARSION CHART:
 
 <img width="1408" height="943" alt="image" src="https://github.com/user-attachments/assets/055dca55-386b-4213-b210-a372c73b6be4" />
 
-### Conclusion: 
-After comparing all five AI tools, we can see that each one has its own strengths and weaknesses:
+# Conclusion:
+
+After comparing all five AI tools:
+
 1.Claude (easy to understand)
+
 2.Gemini (engaging and relatable)
+
 3.ChatGPT (clear and academic)
+
 4.Meta (technical and detailed)
+
 5.Cohere (balanced but less unique)
 
 
-# Result : The Prompt for the above problem statement executed successfully.
+# Result : 
+
+The Prompt for the above problem statement executed successfully.
